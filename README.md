@@ -4,6 +4,6 @@ Archive of  assignments from Computer Science 228 (Data structures and Algorithm
 
 -Includes test files
 
--Includes PDF of assignment
+-Includes PDF's of assignment
 
--Assignments are listed in order
+**Assignments are listed in order
